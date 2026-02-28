@@ -12,7 +12,7 @@ MediCore is a sophisticated, enterprise-grade E-Pharmacy solution designed to br
 
 ---
 
-🏗️ System Architecture
+## 🏗️ System Architecture
 
 The application follows a Decoupled Client-Server Architecture, ensuring high scalability and independent deployment.
 
@@ -85,11 +85,11 @@ medicore/
 
 ```
 
-🤝 Contribution
+## 🤝 Contribution
 
 Developed with ❤️ by Rehman-dev288. This project showcases the power of modern JavaScript stacks in solving real-world healthcare logistics problems.
 
 ---
 
-🚀 Live Demo
+## 🚀 Live Demo
 Live Demo: https://medicore-three.vercel.app
