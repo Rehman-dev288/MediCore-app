@@ -20,16 +20,10 @@ require("dotenv").config();
 const app = express();
 app.use(express.json());
 
-app.use(
-  cors({
-    origin: [
-      "https://medicore-three.vercel.app",
-      "https://medicore-swart.vercel.app",
-      "http://localhost:5173",
-    ],
-    credentials: true,
-  }),
-);
+app.use(cors({
+    origin: true, 
+    credentials: true
+}));
 
 const JWT_SECRET = process.env.JWT_SECRET || "HS256_SECRET_KEY";
 
