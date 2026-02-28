@@ -13,6 +13,7 @@ MediCore is a sophisticated, enterprise-grade E-Pharmacy solution designed to br
 ---
 
 🏗️ System Architecture
+
 The application follows a Decoupled Client-Server Architecture, ensuring high scalability and independent deployment.
 
 Frontend: React.js hosted on Vercel, optimized for lightning-fast UI rendering.
@@ -83,7 +84,9 @@ medicore/
 └── Documentation/          # SRS and Technical reports
 
 ```
+
 🤝 Contribution
+
 Developed with ❤️ by Rehman-dev288. This project showcases the power of modern JavaScript stacks in solving real-world healthcare logistics problems.
 
 ---
