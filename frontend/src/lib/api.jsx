@@ -1,5 +1,5 @@
 import axios from "axios";
-
+// Testing deployment with Render link
 const API_URL = "https://medicore-app-gaka.onrender.com/api";
 
 const api = axios.create({
