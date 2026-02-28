@@ -1,6 +1,6 @@
 # MediCore - Online Medical Store Management System
 
-A professional full-stack pharmacy management application for browsing, searching, and purchasing medicines online. Features include comprehensive admin management, prescription verification, role-based access control, and real-time sales analytics.
+MediCore is a sophisticated, enterprise-grade E-Pharmacy solution designed to bridge the gap between patients, pharmacists, and administrators. It handles everything from smart medicine discovery to complex prescription-based ordering and real-time business analytics.
 
 ---
 
@@ -9,6 +9,15 @@ A professional full-stack pharmacy management application for browsing, searchin
 - **Live Database:** Hosted on Aiven Cloud (MySQL)
 - **Architecture:** Client-Server Architecture (REST API)
 - **Security:** JWT Authentication & Bcrypt Password Hashing
+
+---
+
+🏗️ System Architecture
+The application follows a Decoupled Client-Server Architecture, ensuring high scalability and independent deployment.
+
+Frontend: React.js hosted on Vercel, optimized for lightning-fast UI rendering.
+Backend: Node.js/Express.js hosted on Render, managing business logic and API routing.
+Database: Cloud-hosted MySQL on Aiven, ensuring relational data integrity and 99.9% uptime.
 
 ---
 
@@ -71,3 +80,8 @@ medicore/
 │
 └── Documentation/          # SRS and Technical reports
 ```
+🤝 Contribution
+Developed with ❤️ by Rehman-dev288. This project showcases the power of modern JavaScript stacks in solving real-world healthcare logistics problems.
+
+🚀 Live Demo
+Live Demo: https://medicore-three.vercel.app
