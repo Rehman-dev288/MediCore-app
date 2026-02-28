@@ -1,4 +1,4 @@
-# MediCore - Online Medical Store Management System
+# 💊 MediCore - Online Medical Store Management System
 
 MediCore is a sophisticated, enterprise-grade E-Pharmacy solution designed to bridge the gap between patients, pharmacists, and administrators. It handles everything from smart medicine discovery to complex prescription-based ordering and real-time business analytics.
 
@@ -16,7 +16,9 @@ MediCore is a sophisticated, enterprise-grade E-Pharmacy solution designed to br
 The application follows a Decoupled Client-Server Architecture, ensuring high scalability and independent deployment.
 
 Frontend: React.js hosted on Vercel, optimized for lightning-fast UI rendering.
+
 Backend: Node.js/Express.js hosted on Render, managing business logic and API routing.
+
 Database: Cloud-hosted MySQL on Aiven, ensuring relational data integrity and 99.9% uptime.
 
 ---
@@ -79,9 +81,12 @@ medicore/
 │   └── .env                # Backend URL configuration
 │
 └── Documentation/          # SRS and Technical reports
+
 ```
 🤝 Contribution
 Developed with ❤️ by Rehman-dev288. This project showcases the power of modern JavaScript stacks in solving real-world healthcare logistics problems.
+
+---
 
 🚀 Live Demo
 Live Demo: https://medicore-three.vercel.app
