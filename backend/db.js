@@ -5,7 +5,7 @@ const pool = mysql.createPool({
   host: "medicore-medicore-288.h.aivencloud.com",
   port: 16909,
   user: "avnadmin",
-  password: "AVNS_jh1oDYYgbHmtw1I9Zvi",
+  password: process.env.DB_PASSWORD,
   database: "defaultdb",
   ssl: {
     rejectUnauthorized: false,

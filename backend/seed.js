@@ -456,6 +456,7 @@ async function seedDatabase() {
       host: "medicore-medicore-288.h.aivencloud.com",
       port: 16909,
       user: "avnadmin",
+      password: process.env.DB_PASSWORD,
       password: "AVNS_jh1oDYYgbHmtw1I9Zvi",
       database: "defaultdb",
       ssl: {
